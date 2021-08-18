@@ -1,0 +1,14 @@
+header {
+    padding: 0 3rem;
+}
+
+#rainbow-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+#rainbow-list > li {
+    padding: 5px;
+    flex-grow: 1;
+}
